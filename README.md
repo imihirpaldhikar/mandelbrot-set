@@ -2,6 +2,17 @@
 
 This Project in created with Unity Game Engine to demonstrate the Mandelbrot Set Fractal.
 
+# Controlles
+
+W = move up <br>
+A = move left <br>
+S = move Down <br>
+D = move right <br>
+P = Zoom in <br>
+O = Zoom out <br>
+Q = Rotate left <br>
+E = Rotate right <br>
+
 # Building Project
 
 1. Clone this repository
